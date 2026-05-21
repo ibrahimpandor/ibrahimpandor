@@ -7,7 +7,7 @@
 *building a career in cloud engineering and cloud security — starting now.*
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Pandor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-pandor-8ba618275/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR-THM-USERNAME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ibrahimpandor123)
  
 </div>
 --- 
