@@ -6,7 +6,7 @@
 *Final-year Economics student at York St John University,*
 *building a career in cloud engineering and cloud security — starting now.*
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Pandor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ibrahim-pandor-8ba618275)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Pandor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-pandor-8ba618275/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR-THM-USERNAME)
  
 </div>
@@ -109,7 +109,8 @@ Everything I learn gets built into a project. Everything I build gets documented
  
 I'm always open to connecting with others on the same journey — or anyone working in cloud and security.
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Pandor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ibrahim-pandor-8ba618275)[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimpandor123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Pandor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-pandor-8ba618275/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimpandor123@gmail.com)
  
 ---
  
