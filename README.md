@@ -1,7 +1,7 @@
 <div align="center">
-# Hey, I'm Ibrahim Pandor 👋
+# I'm Ibrahim Pandor 👋
  
-### Aspiring Cloud Engineer & Security Professional
+### Aspiring Cloud Security Engineer Professional
  
 *Final-year Economics student at York St John University,*
 *building a career in cloud engineering and cloud security — starting now.*
@@ -14,7 +14,7 @@
  
 ## 🙋 About Me
  
-I'm not a traditional tech student — I study **Economics**, and I chose to pivot into cloud and security through self-belief and hard work.
+I'm not a traditional tech student that took the typical route — I chose to study **Economics**, and I now built a love for cyber and choosing to pivot into cloud and security through self-belief and hard work.
  
 Economics taught me to think in systems, model risk, and make decisions under uncertainty. When I discovered cloud computing, I realised those skills translate directly into what great cloud engineers actually do: designing infrastructure that is **secure, scalable, and resilient by default.**
  
@@ -22,7 +22,7 @@ So I started building. I completed the **Google Cybersecurity Certificate**, gai
  
 Everything I learn gets built into a project. Everything I build gets documented here.
  
-> 🎯 **Goal:** Become a cloud engineer who thinks like a security professional — someone who designs AWS environments that are secure from day one, not patched after the fact.
+> 🎯 **Goal:** Become a cloud security engineer who thinks like a security professional — someone who designs AWS environments that are secure from day one, not patched after the fact.
  
 ---
  
@@ -40,7 +40,7 @@ Everything I learn gets built into a project. Everything I build gets documented
  
 | Project | Description | AWS Services | Status |
 |---|---|---|---|
-| [aws-secure-static-site](https://github.com/ibrahimpandor/aws-secure-static-site) | Secure personal portfolio hosted on AWS with HTTPS, IAM least-privilege, and logging | S3, CloudFront, ACM, Route 53, IAM | 🚧 In Progress |
+| [aws-secure-static-site](https://github.com/ibrahimpandor/aws-secure-static-site) | Secure personal portfolio hosted on AWS with HTTPS, IAM least-privilege, and logging | S3, CloudFront, ACM, Route 53, IAM | ✅ Complete |
 | [aws-iam-security-audit](./aws-iam-security-audit) | Misconfigured IAM environment audited and hardened using AWS native tools | IAM, Access Analyzer, AWS Config | 📋 Planned |
 | [aws-threat-detection-pipeline](./aws-threat-detection-pipeline) | Serverless pipeline that detects and alerts on suspicious AWS account activity in real time | CloudTrail, Lambda, SNS, EventBridge, GuardDuty | 📋 Planned |
 | [aws-cloud-security-hardening](./aws-cloud-security-hardening) | EC2 environment hardened from scratch — security groups, VPC isolation, encryption, patch management | EC2, VPC, KMS, Systems Manager | 📋 Planned |
