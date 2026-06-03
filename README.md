@@ -30,7 +30,7 @@ Everything I learn gets built into a project. Everything I build gets documented
  
 - ☁️ **AWS Cloud Practitioner (CLF-C02)** — in progress
 - 🔐 **CompTIA Security+** — in progress  
-- 🛠️ **aws-cross-account-sts-iss-tracker** — my Third live AWS project
+- 🛠️ **aws-threat-detection-pipeline** — my fourth live AWS project
 - 📚 **TryHackMe** — building offensive and defensive fundamentals
 ---
  
@@ -42,7 +42,7 @@ Everything I learn gets built into a project. Everything I build gets documented
 |---|---|---|---|
 | [aws-secure-static-site](https://github.com/ibrahimpandor/aws-secure-static-site) | Secure personal portfolio hosted on AWS with HTTPS, IAM least-privilege, and logging | S3, CloudFront, ACM, Route 53, IAM | ✅ Complete |
 | [aws-iam-security-audit](https://github.com/ibrahimpandor/aws-iam-security-audit) | Misconfigured IAM environment audited and hardened using AWS native tools | IAM, Access Analyzer, AWS Config | ✅ Completed |
-| [aws-cross-account-sts-iss-tracker](https://github.com/ibrahimpandor/aws-iam-security-audit) | cross-account data pipeline using STS AssumeRole — no static keys, temporary credentials only | Lambda, STS, IAM, S3, EventBridge | 🚧 In Progress |
+| [aws-cross-account-sts-iss-tracker](https://github.com/ibrahimpandor/aws-cross-account-sts-iss-tracker/blob/main/README.md) | cross-account data pipeline using STS AssumeRole — no static keys, temporary credentials only | Lambda, STS, IAM, S3, EventBridge | ✅ Completed |
 | [aws-threat-detection-pipeline](./aws-threat-detection-pipeline) | Serverless pipeline that detects and alerts on suspicious AWS account activity in real time | CloudTrail, Lambda, SNS, EventBridge, GuardDuty | 📋 Planned |
 | [aws-cloud-security-hardening](./aws-cloud-security-hardening) | EC2 environment hardened from scratch — security groups, VPC isolation, encryption, patch management | EC2, VPC, KMS, Systems Manager | 📋 Planned |
 | [aws-infrastructure-as-code](./aws-infrastructure-as-code) | Full AWS infrastructure deployed using Terraform with CI/CD via GitHub Actions | Terraform, GitHub Actions, AWS | 📋 Planned |
